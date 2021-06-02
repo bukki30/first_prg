@@ -1,0 +1,6 @@
+C:\Users\pc\RiderProjects\First_prg\ReferenceType\bin\Debug\ReferenceType.exe
+C:\Users\pc\RiderProjects\First_prg\ReferenceType\bin\Debug\ReferenceType.pdb
+C:\Users\pc\RiderProjects\First_prg\ReferenceType\obj\Debug\ReferenceType.csprojAssemblyReference.cache
+C:\Users\pc\RiderProjects\First_prg\ReferenceType\obj\Debug\ReferenceType.csproj.CoreCompileInputs.cache
+C:\Users\pc\RiderProjects\First_prg\ReferenceType\obj\Debug\ReferenceType.exe
+C:\Users\pc\RiderProjects\First_prg\ReferenceType\obj\Debug\ReferenceType.pdb

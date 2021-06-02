@@ -1,0 +1,6 @@
+C:\Users\pc\RiderProjects\First_prg\First_prg\obj\Debug\First_prg.csprojAssemblyReference.cache
+C:\Users\pc\RiderProjects\First_prg\First_prg\obj\Debug\First_prg.csproj.CoreCompileInputs.cache
+C:\Users\pc\RiderProjects\First_prg\First_prg\bin\Debug\First_prg.exe
+C:\Users\pc\RiderProjects\First_prg\First_prg\bin\Debug\First_prg.pdb
+C:\Users\pc\RiderProjects\First_prg\First_prg\obj\Debug\First_prg.exe
+C:\Users\pc\RiderProjects\First_prg\First_prg\obj\Debug\First_prg.pdb
